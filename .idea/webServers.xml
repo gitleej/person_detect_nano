@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c6ca3f9e-6e44-41b7-aa9d-eeebdcd225df" name="nx">
+        <fileTransfer rootFolder="/home/nvidia" accessType="SFTP" host="192.168.10.128" port="22" sshConfigId="3248eee6-48b7-4d31-af81-78c9cf51700c" sshConfig="nvidia@192.168.10.128:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
